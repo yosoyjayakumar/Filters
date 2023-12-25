@@ -1,0 +1,33 @@
+{
+    "1703500003090776:389790": {
+        "IFileManager": {
+            "path": "Files/File_1703500003090776_389790.ttf"
+        }
+    },
+    "1703500003104639:389791": {
+        "IResourceController": {
+            "name": "Lightning Script",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1703500003104676:389792",
+            "fileId": "1703500003090776:389790",
+            "publicId": "1703500003108938:389797",
+            "expected_hash": "544f6cc97588b2675d52715a11f5e158"
+        },
+        "IResourceManager": {
+            "uid": "1703500003104676:389792",
+            "name": "Files/File_1703500003090776_389790.ttf",
+            "flags": 1
+        }
+    },
+    "1703500003108938:389797": {
+        "IResourceController": {
+            "public": {
+                "path": "Lightning Script.ttf",
+                "hash": "544f6cc97588b2675d52715a11f5e158"
+            }
+        }
+    }
+}

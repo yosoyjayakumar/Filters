@@ -1,0 +1,42 @@
+{
+    "1703500069365949:408031": {
+        "IFileManager": {
+            "path": "Files/File_1703500069365949_408031.png"
+        }
+    },
+    "1703500069369443:408032": {
+        "IResourceController": {
+            "name": "Cinematic",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1703500069370642:408033",
+            "fileId": "1703500069365949:408031",
+            "originalId": "1703500069371180:408038",
+            "publicId": "1703500071056324:408367",
+            "expected_hash": "16d9fbfab32f3264f36b189ba989b44e",
+            "additional": {
+                "originHash": "16d9fbfab32f3264f36b189ba989b44e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1703500069370642:408033",
+            "name": "Files/File_1703500069365949_408031.png",
+            "flags": 1
+        }
+    },
+    "1703500069371180:408038": {
+        "IFileManager": {
+            "path": "Files/File_1703500069371180_408038.png"
+        }
+    },
+    "1703500071056324:408367": {
+        "IResourceController": {
+            "public": {
+                "path": "Cinematic.png",
+                "hash": "16d9fbfab32f3264f36b189ba989b44e"
+            }
+        }
+    }
+}
